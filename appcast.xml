@@ -4,11 +4,11 @@
         <title>AtlasMini</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 16 Apr 2026 09:10:57 +0200</pubDate>
+            <pubDate>Thu, 16 Apr 2026 10:45:04 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://asekachov.github.io/AtlasMini-releases/AtlasMini-1.0.zip" length="9291646" type="application/octet-stream" sparkle:edSignature="mcGndzQauZXRMbqoZIKx+EsV91HnBYMDkyCNqVkGezzvshgx1Oo3zf1nvRn0DFZk+Ukz0ren08Mvv76wJuiQDQ=="/>
+            <enclosure url="https://asekachov.github.io/AtlasMini-releases/AtlasMini-1.0.zip" length="9448890" type="application/octet-stream" sparkle:edSignature="0V67dV2e/TYD16QaSJpl9Hcp1mXLiM3dTLC0wtu7cyDwiFOdMXVXR3KZvZCsRCSHl1E0P5ep5ToBlOj4tyo0Bw=="/>
         </item>
     </channel>
 </rss>
