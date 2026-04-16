@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>AtlasMini</title>
-    <link>https://github.com/asekachov/AtlasMini-releases</link>
-    <description>AtlasMini updates</description>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AtlasMini</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 16 Apr 2026 09:10:57 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://asekachov.github.io/AtlasMini-releases/AtlasMini-1.0.zip" length="9291646" type="application/octet-stream" sparkle:edSignature="mcGndzQauZXRMbqoZIKx+EsV91HnBYMDkyCNqVkGezzvshgx1Oo3zf1nvRn0DFZk+Ukz0ren08Mvv76wJuiQDQ=="/>
+        </item>
+    </channel>
 </rss>
